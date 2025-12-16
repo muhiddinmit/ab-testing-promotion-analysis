@@ -34,7 +34,7 @@ Promotion 1 significantly outperformed Promotion 2. Promotion 2 resulted in lowe
 
 ## ## 📊 Final Results Visualization
 
-![Average Weekly Sales by Promotion (95% CI)](result.png)
+![Average Weekly Sales by Promotion (95% CI)](Result.png)
 
 The visualization shows average weekly sales with 95% confidence intervals. Promotion 1 clearly outperforms Promotion 2, confirming the statistical test results.
 
