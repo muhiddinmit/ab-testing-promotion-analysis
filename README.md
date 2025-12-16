@@ -32,4 +32,9 @@ Does Promotion 2 improve sales compared to Promotion 1?
 ## Conclusion
 Promotion 1 significantly outperformed Promotion 2. Promotion 2 resulted in lower sales and should not be rolled out.
 
-## Repository Structure
+## ## 📊 Final Results Visualization
+
+![Average Weekly Sales by Promotion (95% CI)](result.png)
+
+The visualization shows average weekly sales with 95% confidence intervals. Promotion 1 clearly outperforms Promotion 2, confirming the statistical test results.
+
